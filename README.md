@@ -18,3 +18,7 @@ Battery & Status | :white_check_mark:
 </p>
 If you need support https://t.me/hackintoshparadise or 
                     https://discord.gg/J8PeCU4hs4
+                    
+ ## Donate -
+<a href="https://paypal.me/vinc3nt1/"><img src="blue.svg" height="40"></a>  
+If you enjoyed this project — or just feeling generous, consider buying me a coffee ☕
