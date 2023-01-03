@@ -16,8 +16,7 @@ Battery & Status | :white_check_mark:
 <p align="center">
 <b>⭐ Please consider starring this repository if it helped you! ⭐</b>
 </p>
-If you need support https://t.me/hackintoshparadise or 
-                    https://discord.gg/J8PeCU4hs4
+If you need support join my [Telegram](https://t.me/vcntsupport)
                     
  ## Donate -
 <a href="https://paypal.me/vinc3nt1/"><img src="blue.svg" height="40"></a>  
