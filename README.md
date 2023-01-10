@@ -16,8 +16,11 @@ Battery & Status | :white_check_mark:
 <p align="center">
 <b>⭐ Please consider starring this repository if it helped you! ⭐</b>
 </p>
-If you need support join my telegram https://t.me/vcntsupport
                    
  ## Donate -
 <a href="https://paypal.me/vinc3nt1/"><img src="blue.svg" height="40"></a>  
 If you enjoyed this project — or just feeling generous, consider buying me a coffee ☕
+
+## Archive -
+sorry guys but due to few issues i have to stop maintaining this repo/efi but dont worry i'll may start maintaining it after i shift to macos again 
+also the efi will always be avaliable on my github and you can always update it using https://dortania.github.io/OpenCore-Post-Install/universal/update.html , hope you understand
